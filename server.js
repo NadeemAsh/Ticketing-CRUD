@@ -28,7 +28,7 @@ let tickets = [
         "resolution_reason": "",
         "ticket_title": "Bot stuck at Login Page",
         "ticket_issue_description": "I was trying to run the bot this morning and found that it's not able to login. Could be some XPATH Issue",
-        "when_started": "Started 6 hours ago"
+        "when_started": "Started 10 hours ago"
     }, {
         "id": "123456789B",
         "priority": "2",
@@ -389,7 +389,7 @@ let tickets = [
         "resolution_reason": "",
         "ticket_title": "Bot stuck at Login Page",
         "ticket_issue_description": "I was trying to run the bot this morning and found that it's not able to login. Could be some XPATH Issue",
-        "when_started": "Started 6 hours ago"
+        "when_started": "Started 10 hours ago"
     }
 ];
 

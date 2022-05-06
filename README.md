@@ -35,7 +35,7 @@ The API runs on port ````9999```` by default.
 ````
 /tickets/:id
 ````
-Example, assuming you run it locally so:  ````localhost:/tickets/123456```` 
+Assuming you run it locally:  ````localhost:/tickets/123456```` 
 
 
 ### Create new Ticket
@@ -47,13 +47,13 @@ Example, assuming you run it locally so:  ````localhost:/tickets/123456````
 ````
 /ticket/delete/:id
 ````
-Example, assuming you run it locally so:  ````localhost:/ticket/delete/123456```` 
+Assuming you run it locally:  ````localhost:/ticket/delete/123456```` 
 
 ### Edit a Ticket by ID
 ````
 /ticket/edit/:id
 ````
-Example, assuming you run it locally so:  ````localhost:/ticket/edit/123456```` 
+Assuming you run it locally:  ````localhost:/ticket/edit/123456```` 
 
 ### Author
 [Mohd Nadeem Ashraf](https://github.com/NadeemAsh)
