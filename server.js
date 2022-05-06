@@ -6,7 +6,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 const app = express();
-const port = process.env.PORT;
+const PORT = (process.env.PORT, "9999");
 
 // Local Storage for our Tickets
 let tickets = [];
@@ -95,6 +95,6 @@ app.post('/ticket/edit/:id', (req, res) => {
 })
 
 
-app.listen(port, () => {
-    console.log('Server running on :', port);
+app.listen(PORT, () => {
+    console.log('Server running on :', PORT);
 })
