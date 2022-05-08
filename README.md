@@ -22,38 +22,41 @@ npm install
 ````
 npm run dev
 ````
-
 The API runs on port ````9999```` by default.
 
+### Home
+````
+https://stub-tickets.herokuapp.com/
+````
 
 ### Fetch all tickets
 ````
-/tickets
+https://stub-tickets.herokuapp.com/tickets
 ````
 
 ### Fetch a Ticket by ID
 ````
-/tickets/:id
+https://stub-tickets.herokuapp.com/tickets/:id
 ````
-Assuming you run it locally:  ````localhost:/tickets/123456```` 
+Example:  ````https://stub-tickets.herokuapp.com/tickets/123456```` 
 
 
 ### Create new Ticket
 ````
-/ticket/create
+https://stub-tickets.herokuapp.com/ticket/create
 ````
 
 ### Delete a Ticket by ID
 ````
-/ticket/delete/:id
+https://stub-tickets.herokuapp.com/ticket/delete/:id
 ````
-Assuming you run it locally:  ````localhost:/ticket/delete/123456```` 
+Example:  ````https://stub-tickets.herokuapp.com/ticket/delete/123456```` 
 
 ### Edit a Ticket by ID
 ````
-/ticket/edit/:id
+https://stub-tickets.herokuapp.com/ticket/edit/:id
 ````
-Assuming you run it locally:  ````localhost:/ticket/edit/123456```` 
+Example:  ````https://stub-tickets.herokuapp.com/ticket/edit/123456```` 
 
 ### Author
 [Mohd Nadeem Ashraf](https://github.com/NadeemAsh)
