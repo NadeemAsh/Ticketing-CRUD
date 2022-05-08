@@ -22,7 +22,7 @@ npm install
 ````
 npm run dev
 ````
-The API runs on port ````9999```` by default.
+The above command runs API locally on port ````9999```` by default.
 
 ### Home
 ````
