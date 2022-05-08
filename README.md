@@ -20,7 +20,7 @@ npm install
 
 ### Start
 ````
-npm run dev
+npm run test
 ````
 The above command runs API locally on port ````9999```` by default.
 
