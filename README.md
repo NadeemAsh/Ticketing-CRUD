@@ -38,7 +38,7 @@ https://stub-tickets.herokuapp.com/tickets
 ````
 https://stub-tickets.herokuapp.com/tickets/:id
 ````
-Example:  ````https://stub-tickets.herokuapp.com/tickets/123456```` 
+Example ````https://stub-tickets.herokuapp.com/tickets/123456```` 
 
 
 ### Create new Ticket
@@ -50,13 +50,13 @@ https://stub-tickets.herokuapp.com/ticket/create
 ````
 https://stub-tickets.herokuapp.com/ticket/delete/:id
 ````
-Example:  ````https://stub-tickets.herokuapp.com/ticket/delete/123456```` 
+Example ````https://stub-tickets.herokuapp.com/ticket/delete/123456```` 
 
 ### Edit a Ticket by ID
 ````
 https://stub-tickets.herokuapp.com/ticket/edit/:id
 ````
-Example:  ````https://stub-tickets.herokuapp.com/ticket/edit/123456```` 
+Example ````https://stub-tickets.herokuapp.com/ticket/edit/123456```` 
 
 ### Author
 [Mohd Nadeem Ashraf](https://github.com/NadeemAsh)
